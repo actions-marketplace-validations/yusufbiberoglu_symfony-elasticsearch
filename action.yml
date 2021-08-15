@@ -1,0 +1,9 @@
+name: symfony-elasticsearch-docker
+description: Symfony elasticsearch with docker.
+author: Yusuf Biberoğlu
+branding:
+  icon: 'search'
+  color: white
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
